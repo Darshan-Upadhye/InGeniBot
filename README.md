@@ -2,6 +2,14 @@
 
 **InGeniBot** is a sleek and intelligent AI chatbot built using **Next.js** and **OpenRouter (DeepSeek model)**, inspired by the Messenger chat UI. It helps users interact with AI in a fun and productive way through a clean and interactive web interface.
 
+<img width="1023" height="767" alt="Image" src="https://github.com/user-attachments/assets/27a00844-d863-4c86-a166-51e7b054a539" />
+
+---
+
+## 👨‍💻 Author
+### Created by Darshan Akshay Upadhye
+GitHub | LinkedIn
+
 ---
 
 ## 🚀 Features
@@ -38,9 +46,3 @@ You can replace the model or provider as per your use case (e.g., Gemini, OpenAI
 <img width="631" height="605" alt="Image" src="https://github.com/user-attachments/assets/31fc0099-b241-42d9-8300-c1c0cd75d4a1" />
 
 <img width="428" height="610" alt="Image" src="https://github.com/user-attachments/assets/9547738f-7fc5-4933-a1ab-eeb197751fbd" />
-
----
-
-## 👨‍💻 Author
-### Created by Darshan Akshay Upadhye
-GitHub | LinkedIn
