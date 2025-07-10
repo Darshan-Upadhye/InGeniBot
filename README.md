@@ -35,10 +35,12 @@ You can replace the model or provider as per your use case (e.g., Gemini, OpenAI
 
 ## 📸 Screenshots
 
+<img width="631" height="605" alt="Image" src="https://github.com/user-attachments/assets/31fc0099-b241-42d9-8300-c1c0cd75d4a1" />
+
 <img width="428" height="610" alt="Image" src="https://github.com/user-attachments/assets/9547738f-7fc5-4933-a1ab-eeb197751fbd" />
 
 ---
 
-##👨‍💻 Author
-###Created by Darshan Akshay Upadhye
+## 👨‍💻 Author
+### Created by Darshan Akshay Upadhye
 GitHub | LinkedIn
