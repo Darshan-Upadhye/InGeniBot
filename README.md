@@ -35,7 +35,7 @@ You can replace the model or provider as per your use case (e.g., Gemini, OpenAI
 
 ## 📸 Screenshots
 
-
+<img width="428" height="610" alt="Image" src="https://github.com/user-attachments/assets/9547738f-7fc5-4933-a1ab-eeb197751fbd" />
 
 ---
 
