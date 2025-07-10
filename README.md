@@ -2,7 +2,7 @@
 
 **InGeniBot** is a sleek and intelligent AI chatbot built using **Next.js** and **OpenRouter (DeepSeek model)**, inspired by the Messenger chat UI. It helps users interact with AI in a fun and productive way through a clean and interactive web interface.
 
-<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/27a00844-d863-4c86-a166-51e7b054a539" />
+<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/27a00844-d863-4c86-a166-51e7b054a539" />
 
 ---
 
@@ -14,8 +14,7 @@
 
 ## 🚀 Live Demo
 
-🌐 Click here to try it out 
-### [InGeniBot](https://ingenibot.vercel.app/)
+🌐 Click here to try it out [InGeniBot](https://ingenibot.vercel.app/)
 
 ---
 
