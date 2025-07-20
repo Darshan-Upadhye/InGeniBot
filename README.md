@@ -43,8 +43,6 @@
 - **Model**: `deepseek/deepseek-r1`
 - **Provider**: [OpenRouter.ai]
 
-You can replace the model or provider as per your use case (e.g., Gemini, OpenAI, etc.).
-
 ---
 
 ## 📸 Screenshots
